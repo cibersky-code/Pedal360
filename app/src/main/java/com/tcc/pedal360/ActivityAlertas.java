@@ -159,7 +159,6 @@ public class ActivityAlertas extends AppCompatActivity {
             bestProvider = String.valueOf(locationManager.getBestProvider(criteria, true)).toString();
             String sNumber = number.getText().toString().trim();
 
-            //You can still do this if you like, you might get lucky:
             if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
                 return;
             }
@@ -170,13 +169,10 @@ public class ActivityAlertas extends AppCompatActivity {
                 longitude = location.getLongitude();
                 SmsManager smsManager = SmsManager.getDefault();
                 smsManager.sendTextMessage(sNumber, null, "https://www.google.com.br/maps/@" + String.valueOf(latitude) + "," + String.valueOf(latitude) + ",17.96z", null, null);
-                //LatLng latLng = new LatLng(latitude, longitude);
-                //MarkerOptions markerOptions = new MarkerOptions().position(latLng).title("Estou aqui");
-                //Toast.makeText(ActivityAlertas.this, "latitude:" + latitude + " longitude:" + longitude, Toast.LENGTH_SHORT).show();
-                //searchNearestPlace(voice2text);
+
             }
             else{
-                //This is what you need:
+
                 locationManager.requestLocationUpdates(bestProvider, 1000, 0, (LocationListener) this);
             }
         }
