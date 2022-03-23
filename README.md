@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/cibersky-code/Pedal360/blob/master/app/src/main/res/drawable-v24/logo.png?raw=true" style="width:25px;heigh:25px;"></h1>
+<h1 align="center"> <img src="https://github.com/cibersky-code/Pedal360/blob/master/app/src/main/res/drawable-v24/logo.png?raw=true" style="width:200px;heigh:200px;"></h1>
 
 # Descrição
 Projeto apresentado para banca na faculdade JK michelangelo no Gama-df
