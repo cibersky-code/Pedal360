@@ -11,6 +11,8 @@ Projeto apresentado para banca na faculdade JK michelangelo no Gama-df
 
 [![GitHub stars](https://img.shields.io/github/stars/cibersky-code/Pedal360)](https://github.com/cibersky-code/Pedal360/stargazers)
 
+[![GitHub license](https://img.shields.io/github/license/cibersky-code/Pedal360)](https://github.com/cibersky-code/Pedal360/blob/master/License)
+
 
 ## Autores
 
