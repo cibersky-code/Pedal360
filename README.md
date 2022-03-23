@@ -8,7 +8,6 @@ Projeto apresentado para banca na faculdade JK michelangelo no Gama-df
 [![GitHub issues](https://img.shields.io/github/issues/cibersky-code/Pedal360?style=flat-square)](https://github.com/cibersky-code/Pedal360/issues)
 [![GitHub forks](https://img.shields.io/github/forks/cibersky-code/Pedal360)](https://github.com/cibersky-code/Pedal360/network)
 [![GitHub stars](https://img.shields.io/github/stars/cibersky-code/Pedal360)](https://github.com/cibersky-code/Pedal360/stargazers)
-[![GitHub license](https://img.shields.io/github/license/cibersky-code/Pedal360)](https://github.com/cibersky-code/Pedal360)
 
 ## Autores
 
