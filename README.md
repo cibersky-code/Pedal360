@@ -3,16 +3,11 @@
 # Descrição
 Projeto apresentado para banca na faculdade JK michelangelo no Gama-df
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat-square)
 
 [![GitHub issues](https://img.shields.io/github/issues/cibersky-code/Pedal360?style=flat-square)](https://github.com/cibersky-code/Pedal360/issues)
 
-[![GitHub forks](https://img.shields.io/github/forks/cibersky-code/Pedal360)](https://github.com/cibersky-code/Pedal360/network)
-
 [![GitHub stars](https://img.shields.io/github/stars/cibersky-code/Pedal360)](https://github.com/cibersky-code/Pedal360/stargazers)
-
-[![GitHub license](https://img.shields.io/github/license/cibersky-code/Pedal360)](https://github.com/cibersky-code/Pedal360/blob/master/License)
-
 
 ## Autores
 
