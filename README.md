@@ -29,7 +29,7 @@ Descrição do Projeto
 Justificativa
 -----
 
-O projeto foi desenvolvido com a finalidade de apoiar os praticantes de ciclismo do Distrito Federal, que enfrentam problemas diários de mobilidade. Alguns desses problemas que podem ser sanados com o uso do aplicativo Pedal 360, que disponibiliza diversas funcionalidades de apoio ao ciclista em seu cotidiano.
+O projeto foi desenvolvido com a finalidade de apoiar os praticantes de ciclismo do Distrito Federal, que enfrentam problemas diários de mobilidade. Alguns desses problemas podem ser sanados com o uso do aplicativo Pedal 360, que disponibiliza diversas funcionalidades de apoio ao ciclista em seu cotidiano.
 
 Para entender a realidade vivida pelos ciclistas e encontrar as soluções viáveis, os criadores do App fizeram pesquisas de campo e  estudos.
 
