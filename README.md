@@ -15,21 +15,23 @@
 Descrição
 ============
 
-Projeto apresentado para banca na :mortar_board:faculdade JK michelangelo no Gama-DF:mortar_board:
+Projeto apresentado para banca na :mortar_board:faculdade JK Michelangelo no Gama-DF:mortar_board:
 
 Descrição do Projeto
 -----
 
 **<p align="center">Aplicativo Mobile voltado para ciclistas</p>**
 
+- Função **Alerta** que envia uma mensagem de texto, com a localização do ciclista, para pessoa escolhida por ele em caso de acidente.
 - Aplicativo de apoio à atividade de ciclismo amador ou profissional.
 - Alertar o usuário sobre a importância dos equipamentos de proteção individual (EPI) e os cuidados em relação ao trânsito.
-- Função **Alerta** que envia uma mensagem de texto, com a localização do ciclista, para pessoa escolhida por ele em caso de acidente.
 
 Justificativa
 -----
 
-O projeto desenvolvido com a finalidade de apoiar os praticantes de ciclismo no Distrito Federal, pois os mesmos enfrentam problemas diários que podem ser sanados com o uso do aplicativo proposto. O aplicativo disponibilizar diversas funcionalidades de apoio ao ciclista em seu cotidiano, para isso, foi realizado pesquisas de campo e estudos com praticantes do ciclismo.
+O projeto foi desenvolvido com a finalidade de apoiar os praticantes de ciclismo do Distrito Federal, que enfrentam problemas diários de mobilidade. Alguns desses problemas que podem ser sanados com o uso do aplicativo Pedal 360, que disponibiliza diversas funcionalidades de apoio ao ciclista em seu cotidiano.
+
+Para entender a realidade vivida pelos ciclistas e encontrar as soluções viáveis, os criadores do App fizeram pesquisas de campo e  estudos.
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&)
