@@ -22,7 +22,7 @@ Descrição do Projeto
 
 **<p align="center">Aplicativo Mobile voltado para ciclistas</p>**
 
-- Função **Alerta** que envia uma mensagem de texto, com a localização do ciclista, para pessoa escolhida por ele em caso de acidente.
+- :warning:Função **Alerta**:warning: que envia uma mensagem de texto, com a localização do ciclista, para pessoa escolhida por ele em caso de acidente.
 - Aplicativo de apoio à atividade de ciclismo amador ou profissional.
 - Alertar o usuário sobre a importância dos equipamentos de proteção individual (EPI) e os cuidados em relação ao trânsito.
 
