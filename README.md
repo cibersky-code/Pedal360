@@ -26,7 +26,7 @@ Projeto apresentado para banca na :mortar_board:faculdade JK Michelangelo no Gam
 Descrição do Projeto
 -----
 
-**<p align="center">Aplicativo Mobile voltado para ciclistas</p>**
+**<p align="center">Aplicativo Mobile voltado para ciclistas :bike::bike::bike::bike::bike:</p>**
 
 - :warning:Função **Alerta**:warning: que envia uma mensagem de texto, com a localização do ciclista, para pessoa escolhida por ele em caso de acidente.
 - Aplicativo de apoio à atividade de ciclismo amador ou profissional.
