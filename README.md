@@ -60,4 +60,4 @@ Projeto
 
 Projeto (PI-2) - em breve
 
-Trabalho de Conclusão de curso - em breve
+Trabalho de Conclusão de Curso - em breve
