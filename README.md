@@ -50,6 +50,6 @@ Projeto
 
 :pushpin: [Projeto (PI-1)](https://docs.google.com/document/d/1c1r9XdR29WWRlePdd9X63k3-_TKvyCgwBHj5BRP_QAM/edit?usp=sharing)
 
-Projeto (PI-2) - em breve
+:pushpin: [Projeto (PI-2)](https://docs.google.com/document/d/1Kte8NIpNfFGthGRjDH43uwElRE3LwS98/edit?usp=sharing&ouid=113948612274658050142&rtpof=true&sd=true)
 
 Trabalho de Conclusão de Curso - em breve
